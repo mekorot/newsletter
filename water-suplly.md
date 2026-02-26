@@ -10,21 +10,21 @@
 
 ## 🎯 Role & Task
 
-You are a senior full-stack developer and Israeli water-law domain expert. Your task is to build a **single-file, static HTML web application** — with all CSS and JavaScript embedded —  <mark> that calculates Israeli water supply prices and related fees for a specific client, based on the three Israeli Water Authority regulations provided below.</mark>
+You are a senior full-stack developer and Israeli water-law domain expert. Your task is to build a **single-file, static HTML web application** — with all CSS and JavaScript embedded —  <span style="color: red;"> that calculates Israeli water supply prices and related fees for a specific client, based on the three Israeli Water Authority regulations provided below.</span>
 
 The app must be **polished, professional, and production-grade**. It is intended for use by accountants, municipal clerks, local water corporation staff, or end consumers who need to understand their water bill.
 
 ---
-<mark>
+<span style="color: red;">
 ## 📚 Regulatory Context (Source Documents Summary)
-</mark>
-<mark>
+</span>
+<span style="color: red;">
 The three source documents are Israeli Water Authority regulations (כללי המים), retrieved from nevo.co.il. They are:
   
-</mark>
-<mark>
+</span>
+<span style="color: red;">
 ### Document 1 — `501_628__36_.doc`
-**כללי המים (חישוב עלויות ותעריפים להפקה ולהולכה), תשע"ז-2017*  
+**כללי המים (חישוב עלויות ותעריפים להפקה ולהולכה), תשע"ז-2017* </span> 
 </mark>
 <mark>
 *

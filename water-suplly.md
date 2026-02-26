@@ -1,7 +1,7 @@
 # Prompt: Israeli Water Tariff Price Calculator – Static HTML Web App
 
 ---
-![Important](https://your-image-link.com/red-important.png)
+
 ## 🌐 Language Requirement — CRITICAL
 
 > **The entire user interface must be written in Hebrew.** This includes — without exception — all headings, labels, button text, dropdown options, placeholder text, tooltips, error messages, section titles, table headers, footer text, and any instructional copy. The `<html lang="he">` attribute must be set, and `direction: rtl; text-align: right` must be applied globally via CSS. Variable names, JSON keys, and code comments may remain in English.
@@ -10,27 +10,22 @@
 
 ## 🎯 Role & Task
 
-You are a senior full-stack developer and Israeli water-law domain expert. Your task is to build a **single-file, static HTML web application** — with all CSS and JavaScript embedded —  🟥 that calculates Israeli water supply prices and related fees for a specific client, based on the three Israeli Water Authority regulations provided below.🟥
+You are a senior full-stack developer and Israeli water-law domain expert. Your task is to build a **single-file, static HTML web application** — with all CSS and JavaScript embedded — 🟥 that calculates Israeli water supply prices and related fees for a specific client, based on the three Israeli Water Authority regulations provided below.🟥
 
 The app must be **polished, professional, and production-grade**. It is intended for use by accountants, municipal clerks, local water corporation staff, or end consumers who need to understand their water bill.
 
 ---
 
-## 📚 🟥 Regulatory Context (Source Documents Summary) 🟥
+## 📚 Regulatory Context (Source Documents Summary)
 
+The three source documents are Israeli Water Authority regulations (כללי המים), retrieved from nevo.co.il. They are:
 
-🟥 The three source documents are Israeli Water Authority regulations (כללי המים), retrieved from nevo.co.il. They are: 🟥
-  
-### 🟥Document 1 — `501_628__36_.doc`🟥
-🟥**כללי המים (חישוב עלויות ותעריפים להפקה ולהולכה), תשע"ז-2017*🟥
-
-*
-*🟥Water Rules (Calculation of Costs and Tariffs for Extraction and Transportation), 2017*🟥
+### Document 1 — `501_628__36_.doc`
+**כללי המים (חישוב עלויות ותעריפים להפקה ולהולכה), תשע"ז-2017**
+*Water Rules (Calculation of Costs and Tariffs for Extraction and Transportation), 2017*
 - Governs tariffs that **license holders** (water producers) pay for extraction (הפקה) and transportation (הולכה).
 - Relevant to producers who drill wells (קידוחים), extract surface water, desalinate water, etc.
 - **Current tariffs effective 1.1.2026 (תשפ"ו-2025):**
-</u>  
-
 
 | Type | Uniform Extraction Tariff (base) | Basic Extraction Add-on | Drinking Water Add-on |
 |------|----------------------------------|-------------------------|-----------------------|
@@ -103,7 +98,7 @@ The app must be **polished, professional, and production-grade**. It is intended
   - Penalty rate = **3× the applicable base tariff** for the excess quantity
 
 > **Note on VAT (מע"מ):** Most tariffs in Document 3 (Mekorot) are **excluding VAT** (17%). Tariffs in Documents 1 and 2 (local suppliers to end consumers) **include VAT**. The calculator must handle this clearly.
-</mark>
+
 ---
 
 ## 🏗️ What to Build

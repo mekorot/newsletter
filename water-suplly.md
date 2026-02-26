@@ -18,14 +18,14 @@ The app must be **polished, professional, and production-grade**. It is intended
 
 ## 📚 Regulatory Context (Source Documents Summary)
 
-The three source documents are Israeli Water Authority regulations (כללי המים), retrieved from nevo.co.il. They are:
+🟥The three source documents are Israeli Water Authority regulations (כללי המים), retrieved from nevo.co.il. They are: 🟥
 
 ### Document 1 — `501_628__36_.doc`
-**כללי המים (חישוב עלויות ותעריפים להפקה ולהולכה), תשע"ז-2017**
-*Water Rules (Calculation of Costs and Tariffs for Extraction and Transportation), 2017*
-- Governs tariffs that **license holders** (water producers) pay for extraction (הפקה) and transportation (הולכה).
-- Relevant to producers who drill wells (קידוחים), extract surface water, desalinate water, etc.
-- **Current tariffs effective 1.1.2026 (תשפ"ו-2025):**
+🟥**כללי המים (חישוב עלויות ותעריפים להפקה ולהולכה), תשע"ז-2017**🟥
+🟥*Water Rules (Calculation of Costs and Tariffs for Extraction and Transportation), 2017*🟥
+🟥- Governs tariffs that **license holders** (water producers) pay for extraction (הפקה) and transportation (הולכה).🟥
+🟥- Relevant to producers who drill wells (קידוחים), extract surface water, desalinate water, etc.🟥
+🟥- **Current tariffs effective 1.1.2026 (תשפ"ו-2025):**🟥
 
 | Type | Uniform Extraction Tariff (base) | Basic Extraction Add-on | Drinking Water Add-on |
 |------|----------------------------------|-------------------------|-----------------------|

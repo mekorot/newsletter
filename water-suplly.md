@@ -2,7 +2,7 @@
 
 ---
 `IMPORTANT`
-
+> ⚠️ **Warning:** This action is irreversible
 ## 🌐 Language Requirement — CRITICAL
 
 > **The entire user interface must be written in Hebrew.** This includes — without exception — all headings, labels, button text, dropdown options, placeholder text, tooltips, error messages, section titles, table headers, footer text, and any instructional copy. The `<html lang="he">` attribute must be set, and `direction: rtl; text-align: right` must be applied globally via CSS. Variable names, JSON keys, and code comments may remain in English.

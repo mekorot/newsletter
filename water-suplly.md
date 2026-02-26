@@ -10,22 +10,20 @@
 
 ## 🎯 Role & Task
 
-You are a senior full-stack developer and Israeli water-law domain expert. Your task is to build a **single-file, static HTML web application** — with all CSS and JavaScript embedded —  <u> that calculates Israeli water supply prices and related fees for a specific client, based on the three Israeli Water Authority regulations provided below.</u>
+You are a senior full-stack developer and Israeli water-law domain expert. Your task is to build a **single-file, static HTML web application** — with all CSS and JavaScript embedded —  🟥 that calculates Israeli water supply prices and related fees for a specific client, based on the three Israeli Water Authority regulations provided below.🟥
 
 The app must be **polished, professional, and production-grade**. It is intended for use by accountants, municipal clerks, local water corporation staff, or end consumers who need to understand their water bill.
 
 ---
-<u>
-## 📚 Regulatory Context (Source Documents Summary)
-</u>
-<u>
-The three source documents are Israeli Water Authority regulations (כללי המים), retrieved from nevo.co.il. They are:
+
+## 📚 🟥 Regulatory Context (Source Documents Summary) 🟥
+
+
+🟥 The three source documents are Israeli Water Authority regulations (כללי המים), retrieved from nevo.co.il. They are: 🟥
   
-</u>
-<u>
-### Document 1 — `501_628__36_.doc`
+### 🟥Document 1 — `501_628__36_.doc`🟥
 **כללי המים (חישוב עלויות ותעריפים להפקה ולהולכה), תשע"ז-2017*</u> 
-<u>
+
 *
 *Water Rules (Calculation of Costs and Tariffs for Extraction and Transportation), 2017*
 - Governs tariffs that **license holders** (water producers) pay for extraction (הפקה) and transportation (הולכה).

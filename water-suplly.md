@@ -15,7 +15,7 @@ You are a senior full-stack developer and Israeli water-law domain expert. Your 
 The app must be **polished, professional, and production-grade**. It is intended for use by accountants, municipal clerks, local water corporation staff, or end consumers who need to understand their water bill.
 
 ---
-
+<mark>
 ## 📚 Regulatory Context (Source Documents Summary)
 
 The three source documents are Israeli Water Authority regulations (כללי המים), retrieved from nevo.co.il. They are:
@@ -98,7 +98,7 @@ The three source documents are Israeli Water Authority regulations (כללי ה�
   - Penalty rate = **3× the applicable base tariff** for the excess quantity
 
 > **Note on VAT (מע"מ):** Most tariffs in Document 3 (Mekorot) are **excluding VAT** (17%). Tariffs in Documents 1 and 2 (local suppliers to end consumers) **include VAT**. The calculator must handle this clearly.
-
+</mark>
 ---
 
 ## 🏗️ What to Build
